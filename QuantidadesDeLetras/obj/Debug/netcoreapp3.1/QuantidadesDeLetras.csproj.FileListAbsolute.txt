@@ -1,0 +1,14 @@
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\bin\Debug\netcoreapp3.1\QuantidadesDeLetras.exe
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\bin\Debug\netcoreapp3.1\QuantidadesDeLetras.deps.json
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\bin\Debug\netcoreapp3.1\QuantidadesDeLetras.runtimeconfig.json
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\bin\Debug\netcoreapp3.1\QuantidadesDeLetras.runtimeconfig.dev.json
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\bin\Debug\netcoreapp3.1\QuantidadesDeLetras.dll
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\bin\Debug\netcoreapp3.1\QuantidadesDeLetras.pdb
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\obj\Debug\netcoreapp3.1\QuantidadesDeLetras.csproj.AssemblyReference.cache
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\obj\Debug\netcoreapp3.1\QuantidadesDeLetras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\obj\Debug\netcoreapp3.1\QuantidadesDeLetras.AssemblyInfoInputs.cache
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\obj\Debug\netcoreapp3.1\QuantidadesDeLetras.AssemblyInfo.cs
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\obj\Debug\netcoreapp3.1\QuantidadesDeLetras.csproj.CoreCompileInputs.cache
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\obj\Debug\netcoreapp3.1\QuantidadesDeLetras.dll
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\obj\Debug\netcoreapp3.1\QuantidadesDeLetras.pdb
+C:\Users\017557631\source\repos\QuantidadesDeLetras\QuantidadesDeLetras\obj\Debug\netcoreapp3.1\QuantidadesDeLetras.genruntimeconfig.cache
